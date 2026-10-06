@@ -2,7 +2,7 @@
 <h3 align="center">Senior Frontend Developer · React.js & Next.js · Based in Egypt</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevWaleedS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=devwaleeds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 I'm a frontend developer with 5+ years of experience building production React.js and Next.js applications across telecom, ERP, healthcare, SaaS, and e-commerce. I care about clean architecture, reusable components, performance, and RTL/multilingual interfaces that work well for Arabic and English users.
