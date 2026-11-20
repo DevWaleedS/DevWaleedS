@@ -1,32 +1,33 @@
 <h1 align="center">Hi 👋, I'm Waleed Salah</h1>
-<h3 align="center">Senior Frontend Developer · React.js & Next.js · Based in Egypt</h3>
+<h3 align="center">Senior Frontend Engineer · React.js & Next.js · Cairo, Egypt</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devwaleeds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-I'm a frontend developer with 5+ years of experience building production React.js and Next.js applications across telecom, ERP, healthcare, SaaS, and e-commerce. I care about clean architecture, reusable components, performance, and RTL/multilingual interfaces that work well for Arabic and English users.
+I'm a senior frontend engineer with 5+ years of experience building production React.js and Next.js applications across telecom, ERP, healthcare, SaaS, and e-commerce. I care about clean architecture, reusable components, performance, and RTL/multilingual interfaces that work well for Arabic and English users.
 
 ## What I'm up to
 
-- 🔭 Part-time Senior Frontend Developer at **Ma4techs**, working on the frontend architecture of a SaaS real estate platform (React.js, Next.js), including a multi-step payment/invoice-splitting flow and a live statistics dashboard.
-- 🎯 Open to senior frontend roles in Saudi Arabia and the Gulf, especially in PropTech, SaaS, and e-commerce.
-- 💬 Ask me about **React, Next.js, Redux Toolkit / RTK Query, TanStack Query, and RTL/Arabic UIs**.
+- 🔭 Part-time Senior Frontend Developer at **Ma4techs**, contributing to the frontend architecture of a real estate SaaS platform (React.js, Next.js), including property management workflows, multi-step payment and invoice-splitting flows, and a live statistics dashboard.
+- 🎯 Open to senior frontend roles in Egypt and the Gulf, remote or on-site, especially in PropTech, SaaS, and e-commerce.
+- 💬 Ask me about **React, Next.js, TypeScript, Redux Toolkit / RTK Query, TanStack Query, and RTL/Arabic UIs**.
 
 ## Experience at a glance
 
-- **Sigma EMEA** (2025 – 2026): frontend for an enterprise telecom BSS product; built a reusable component library and managed state for a large ERP-style platform with Redux Toolkit and RTK Query.
-- **INETWORK Middle East** (2025): healthcare, CMS, and e-commerce apps, plus real-time dashboards with WebSockets.
-- **FAZ for Information Technology** (2022 – 2025): architected an e-commerce platform for the Saudi market.
-- **Layers Marketing & Advertising** (2021 – 2022): SSR/SSG sites focused on Core Web Vitals, SEO, and accessibility.
+- **Ma4techs** (Dec 2025 – Present): Senior Frontend Developer, part-time remote. Frontend architecture for a React.js and Next.js real estate SaaS platform, focused on maintainability as the product grows.
+- **Sigma EMEA** (Jul 2025 – Jul 2026): Software Developer (Frontend). Owned frontend delivery for an enterprise telecom BSS product; built a reusable component library aligned with the product design system and defined Redux Toolkit / RTK Query state architecture for an ERP-style platform.
+- **INETWORK Middle East** (Jan 2025 – Jun 2025): Frontend Developer. React.js and Next.js applications across healthcare, CMS, and e-commerce, plus real-time dashboards with WebSockets.
+- **FAZ for Information Technology** (Jan 2022 – Jan 2025): Frontend Developer. Architected an e-commerce platform for the Saudi market.
+- **Layers Marketing & Advertising** (Feb 2021 – Dec 2022): Frontend Developer, remote part-time. SSR/SSG sites focused on Core Web Vitals, SEO, and accessibility.
 
 ## Selected projects
 
-- **Aqarna**: SaaS real estate platform with property listing workflows, advanced search and filtering, and full Arabic/RTL support.
-- **DNP (Dr. Nutrition Egypt)**: health and nutrition e-commerce with a product catalog, bundles, cart, wishlist, and a BMI calculator.
-- **Lebara Mobile KSA**: telecom platform for SIM ordering, prepaid plans, international calls, and online top-up.
+- **DNP, Dr. Nutrition Egypt** — Next.js e-commerce platform for a nutrition brand, serving real customers today. Product catalog, bundles, cart, wishlist, and a BMI calculator. Live at [dnpeg.com](https://dnpeg.com).
+- **Lebara Mobile KSA** — consumer telecom platform for a high-traffic, Arabic-first audience in Saudi Arabia. SIM ordering, prepaid plans, international calls, and online top-up. Live at [lebara.sa](https://lebara.sa).
+- **Aqarna** — SaaS real estate platform with property listing workflows, advanced search and filtering, and full Arabic/RTL support (development environment).
 
-More at 👉 [devwaleeds.github.io/portfolio](https://devwaleeds.github.io/portfolio)
+Portfolio 👉 [portfolio-next-devwaleeds-projects.vercel.app](https://portfolio-next-devwaleeds-projects.vercel.app)
 
 ## Tech stack
 
@@ -57,19 +58,4 @@ More at 👉 [devwaleeds.github.io/portfolio](https://devwaleeds.github.io/portf
   <a href="https://codepen.io/waleed-salah-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
   <a href="https://codesandbox.com/devwaleeds" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/waleedsalah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
-- 📫 Email: [eng.waleed.salah@outlook.com](mailto:eng.waleed.salah@outlook.com)
-- 📝 Articles and featured work: [LinkedIn](https://www.linkedin.com/in/waleed-salah-056a2816a/details/featured)
-- 📄 My CV: [View on Google Drive](https://drive.google.com/file/d/1e_xMggG8qb0Wg8lNymUIT-7wVp-aRqna/view?usp=drive_link)
-
-## GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevWaleedS&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DevWaleedS&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevWaleedS" alt="GitHub streak" />
 </p>
